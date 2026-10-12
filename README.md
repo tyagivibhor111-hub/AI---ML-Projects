@@ -63,7 +63,6 @@ Install the dependencies specified in the selected project's `requirements.txt` 
 - Experiment with different algorithms, architectures, and models.
 - Explore modern developments in Generative AI and large language models.
 - Improve skills in model development, evaluation, and deployment.
-- Maintain a collection of projects that demonstrates continuous learning and experimentation.
 
 ## Contributions
 
