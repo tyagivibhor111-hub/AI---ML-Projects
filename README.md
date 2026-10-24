@@ -18,7 +18,7 @@ The projects cover everything from basic machine learning algorithms and data an
 
 ## Technologies Used
 
-- **Languages:** Python, SQL
+- **Languages:** Python, SQL, Scikit-learn, Tensorflow
 - **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
 - **Data Processing:** NumPy, Pandas
 - **Computer Vision:** OpenCV, YOLO
